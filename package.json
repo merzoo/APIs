@@ -1,0 +1,20 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "常见api的实现整理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merzoo/APIs.git"
+  },
+  "keywords": [],
+  "author": "merzoo <496168739@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merzoo/APIs/issues"
+  },
+  "homepage": "https://github.com/merzoo/APIs#readme"
+}
